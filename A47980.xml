@@ -1,0 +1,265 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter from a friend in London, to another at Salamanca</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1681</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A47980</idno>
+            <idno type="STC">Wing L1374</idno>
+            <idno type="STC">ESTC R218805</idno>
+            <idno type="EEBO-CITATION">99830365</idno>
+            <idno type="PROQUEST">99830365</idno>
+            <idno type="VID">34816</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A47980)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 34816)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2073:02)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter from a friend in London, to another at Salamanca</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for J.C.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1681]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>A satirical letter attacking "our Doctor of Salamanca", i.e. Titus Oates.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Oates, Titus, 1649-1705 --  Humor --  Early works to 1800.</term>
+               <term>Religion and politics --  England --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Restoration, 1660-1688 --  Humor --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:34816:1" rendition="simple:additions"/>
+            <head>A LETTER From a Friend in LONDON, To Another at SALAMANCA.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">Y</seg>Ou may Remember the laſt year, and I think in the time of the Dog days I gave you an Account
+as <hi>per</hi> Advice, how our Affairs ſtood here in <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> and that the whole
+Riſe and Texture of them were from a certain Perſon, who ſaid he was a Doctor in Divinity,
+and took his Degree at <hi>Salamanca,</hi> which obliged me to Write to you to know if that
+Aſſertion were Truth or not, becauſe in other matters he has been ſuſpected. I then gave
+you the Deſcription of him Inſide and Out, I told you he was Sanguinous, Bold, and
+Paſſionate, qualifica<g ref="char:EOLhyphen"/>tions Diſſonant to his Coat and Character; and you in Return told me
+that you had made full Inquiry, if ever ſuch a Perſon had at any time heretofore Reſided
+amongſt you, or taken any Degree or Order, but could find none that ever knew or heard of him; to
+which I Concur'd, and ſo I do ſtill for many Reaſons more than what you gave me. Now God be
+praiſed we have another Face to what the laſt year wore, the Angry Waſps are now catch't in
+their own Hony, you told me that the <hi>Engliſh</hi> were all Ears and no Eyes, but now they are
+all Eyes and no Ears; had you but ſeen how near Deſtruction that Doctor I mention had brought
+us to, you cou'd not have been leſs Mad than he himſelf was, when he heard that his Patron the
+Sheriff would not keep Houſe; for 'tis Reported that a Nine-penny Ordinary here is better than
+the beſt Univerſity Commons in <hi>Sallamanca,</hi> yet thus much I muſt needs ſay in
+praiſe of that never to be forgotten Prelate, tho' your Univerſity ſcorns to own him, that if
+he Retriev'd us from the Jaws of the Fox of <hi>Rome</hi> he did not better our Safety by it, but
+left us to be Dovour'd by the Woolf of Fanaticiſm. We have a Multitude of other Doctors ſprung
+up ſince the State was Sick, not Prelates, but Phyſicians of the State, meer Quacks there's Dr.
+<hi>Grig</hi> a Piſ<g ref="char:EOLhyphen"/>mire, Dr. <hi>Lambs-wool</hi> one of <hi>Aeſop</hi>'s Race; in ſhort we
+are ſo Di<g ref="char:EOLhyphen"/>ſeaſed,
+<pb n="2" facs="tcp:34816:2"/>every Country has almoſt a Doctor, here's Dr.
+<hi>Kent,</hi> Dr. <hi>Eſſex,</hi> Dr. <hi>Huntington,</hi> Dr. <hi>Gray:</hi> Dr.
+<hi>Arm-ſtrong</hi> he is for <hi>Mon<g ref="char:EOLhyphen"/>mouth-ſhire,</hi> and ſuch a multitude more, it would
+put a man out of Breath to name them. All theſe are Phyſicians for any Mallady in Religion,
+Mind, or State, they have but one Remedy for all Di<g ref="char:EOLhyphen"/>ſeaſes, Phlebotomy; they found the Cure
+infallible in 48, and would fain practiſe it <hi>de novo,</hi> not for Reputation but for Gain
+ſake. Then to vend their Drugs the better they have their Zanies, one <hi>Hittringale, Janeway,
+Joyner, Curtis, Care, cum multis aliis,</hi> whoſe names as ſoon as Mr. <hi>Kech</hi> can
+inform of, ſhall be Tranſ<g ref="char:EOLhyphen"/>mitted to you, in the mean time I beg the favour of you to ac<g ref="char:EOLhyphen"/>quaint
+me by the firſt opportunity, if any of theſe Empiricks I have nam'd were ever known to you at
+<hi>Salamanca,</hi> becauſe there is a great deal lies upon that point. At <hi>Geneva</hi> I have
+heard ſome of them have been, and am very apt to believe it, for they have the very Cut, Mean,
+Habit and Cant, that <hi>Marſhal</hi> the <hi>Geneva</hi> Bull <hi>Nye,</hi> and others had in
+the year 1641. A man would have thought there had been none of the Race left in the year 1660, but
+the are a meer <hi>Hydra</hi> the more you deſtroy, the more they improve, a meer <hi>Love'
+ſtain</hi>-Faction oppoſit to all Government, but where themſelves are Pentioners, and yet
+wou'd abuſe all others for being ſuch. O! there's no ſuch Spawning-place in the World as
+under a ſanctified Shed, which ſome Nick-name a Meeting<g ref="char:EOLhyphen"/>houſe, or Conventicle.</p>
+            <p>Now Sir, it is ſtrange to me that our Doctor of <hi>Salamanca</hi> ſhould feed and herd with
+theſe of <hi>Geneva,</hi> for he, they ſay, is a brave Huffing Bluſtring Doctor, ſitter to
+<hi>Fight the Lords Battle,</hi> than to ſay he has had his Coverſation in the World, <hi>in
+ſimplicity and Godly ſincerity.</hi> You wou'd not know him from a <hi>Tory</hi> when he meets
+with a Plentiful Table and good Company, as that he has often done behind the <hi>Exchange</hi> as
+well as at <hi>Mile End,</hi> where he was Careſs'd with Dukes and Earls, but at the Expence of
+the poor <hi>Wappingers.</hi> And theſe <hi>Geneva Whigs</hi> are quite of another Kid<g ref="char:EOLhyphen"/>ney, they
+are Demure, Conſcientious, Prickear'd Vermin, full of Hypocritical Sanctity in figure and
+appearance, but the Devil is as much a <hi>Proteſtant</hi> within; they will not Swear you an
+Oath for all the World, but ſwallow Thouſands to ſerve a private Turn; They will not drink a
+Health for any Gain, yet ſcruple not to in<g ref="char:EOLhyphen"/>toxicate themſelves with Vineger and Gall againſt
+the Govern<g ref="char:EOLhyphen"/>ment; tho' Juſtice and Equity is no where elſe ſo equally diſtribu<g ref="char:EOLhyphen"/>ted: ſure
+theſe are the true Genuine Iſſue of thoſe men our Bleſſed Saviour mentioneth, that take
+Care to pay the Tyth of <hi>Mint</hi> and <hi>Cummin,</hi> but neglect the weightier Matters of the
+Law, Obedience to Powers, Rendring to <hi>Caeſar</hi> the things that are <hi>Caeſars,</hi>
+living in Charity with all men, &amp;<hi>c.</hi> The Good King we live under ſuffers 'em to Keck
+at theſe things, knowing that by Nature they have ſqueamiſh Conſciences, and can as ill
+digeſt Goſpel Ordi<g ref="char:EOLhyphen"/>nances as human Laws. They are a ſort of people that no part of the
+Univerſe produceth but this, they ſtumble at Straws in Go<g ref="char:EOLhyphen"/>vernment, but leap over Blocks of
+their own laying, they baul
+<pb n="3" facs="tcp:34816:2"/>againſt Grievances of their own Raiſing, they
+have ſo infinite a Ve<g ref="char:EOLhyphen"/>neration for God, that they dayly perpetrate things directly op<g ref="char:EOLhyphen"/>poſit to
+his Laws, for inſtead of being the Inſtruments of Peace and Concord, they are the Ingeniers of
+Deſolation and Ruine. Having now told you <hi>Sir,</hi> what they are, It Remains Requiſit to
+tell you what they would be at; They would Reform the World if they could; for Reformation is their
+work, tho God Himſelf hath Declared the <hi>Oeconomie,</hi> and Order of it good: And firſt
+they would begin with <hi>England,</hi> and what are their Inſtru<g ref="char:EOLhyphen"/>ments think you, but ſuch a
+Miſcellany of Heedleſs, Increditable Vermin, as the Eye of Man never beheld but that night the
+<hi>Pa<g ref="char:EOLhyphen"/>geant</hi> Call'd the <hi>Pope</hi> was burnt, the ſight of which all wiſe Men, and good
+deteſted, as knowing ſuch Popular ſorts of Buffoolry would certainly Stigmatize the Nation
+with an everlaſting <hi>Odium;</hi> for whatſoever bears the figure of that which is, or
+ſeems ſacred ought not to be made Ridiculous.</p>
+            <p>I forget not tho they have Our houſes of prayer was by the ſame incorporated Body of
+<hi>Proteſtant</hi> Reformers, turn'd into Stables and a Den for Thieves; poor Women Excited from
+the Pulpit to Rob their Huſbands to ſupport the Godly againſt the (ſo call'd) wicked, and a
+thouſand Villanies beſides. And notwithſtanding all their Attempts have hitherto been
+blaſted with thoſe of <hi>Rome;</hi> ſuch an Abhorrance has God Almighty to the Machinations
+of Evil, yet they are at work ſtill with the Prince of Darkneſs their <hi>Coadjutor,</hi> but
+it is an <hi>Egyptian</hi> work, It is making Brick without Straw, when the Task-Maſters grow
+faint well may the Labour<g ref="char:EOLhyphen"/>ers do ſo, and we ſhall all ſee it meet with a
+<hi>Babylonïſh</hi> Concluſion. Such little Artifices, ſuch Paltry Intreagues they
+uſe; to keep the Male-Content in heart; that ſuch a thing as <hi>Oates</hi> hangs its head and
+withers. I could not chooſe but ſmile to ſee it intimated the other day in our <hi>Impartial
+Intelligence,</hi> that be<g ref="char:EOLhyphen"/>cauſe it was falſly Reported the Addreſs to his Majeſty was made
+by all the Apprentices of <hi>London,</hi> there would be a Petition ſud<g ref="char:EOLhyphen"/>denly Signed by the far
+greater number for the calling of a <hi>Par<g ref="char:EOLhyphen"/>liament</hi> in oppoſition to the other Loyal Youths.
+Now what do's this purport, or why ſhould it be ſuggeſted, but to give the Country to
+underſtand that the Apprentices of <hi>London</hi> are divided upon the point of Loyalty, and to
+render us Ridiculous abroad as well as to one another, to think his Majeſty ſhould adhear to
+the Advice of a Company of poor Novices, who have been bred by their Shiſmatick Maſters without
+the Pale of the Church, and know no more than their Manual Occupations (if that) and to carry on a
+Meeting day, a two handed Bible under their Arm, ſooner than to the Petition of the Lord Mayor,
+and Common-Hall to the ame purpoſe: I confeſs I was ſtruck with pity to ſee a little
+ſtapling the other day come Crying into a Tavern in <hi>Cheapſide</hi> for his Petition, which
+he had a little before brought thither for the Vi<g ref="char:EOLhyphen"/>neger Drawer to ſign (the other drawers
+Refuſing it) and I know not how it came to be miſplaced and loſt; the Boy Roa'd out and
+ſaid he was undone, his Maſter would beat him and turn him
+<pb n="4" facs="tcp:34816:3"/>away for loſing his Petition, but there was no
+Remedy for him, for as I underſtand the Cook ſtole it for the bottom of a <hi>Tart:</hi>
+However I told the Boy where he might have more (to witt) at the <hi>George</hi> in <hi>Iron
+Monger-Lane,</hi> where thirteen to the dozen of theſe hopeful Youths meet every night to carry
+on the great work of Petitioning, and have their Dayly Exhibition of half a Crown a piece. Nay I
+know all, and it will out: Their Actions are as Conſpicuous as their Hypocriſie, ſaying one
+thing and meaning another; but I blame not them more then I do their Paſtors, that cheat the poor
+Credulous Sheep of their due ſuſtenance, give them Husks and Chaff inſtead of Goſpel Truth.
+Read but theſe books of theirs and ſee what they contain. <hi>A Cat may look upon a King, A Pea
+to ſtop the Iſſue of ſin, The Seamans Compaſs Spiri<g ref="char:EOLhyphen"/>tualized, The Marrowbone of
+Grace</hi> and thouſands more, than tell me who are the greateſt Prevaricators, your
+<hi>Jeſuits,</hi> or Ours.</p>
+            <p>I intend to dine with theſe Petitioners, for I hear their Ma<g ref="char:EOLhyphen"/>ſters are to treat them with
+<hi>Stags</hi> at <hi>Weavers</hi>-Hall, and the <hi>Horns</hi> are to be nailed up in Memorial of
+the Entertainment, to out do the Loyal Apprentices who had but Fallow-Dear. Would it not make any
+man laugh to ſee theſe <hi>Gnats</hi> buz about the light of ſence, ſindge their Wings, and
+loſe all motion after it? Who can pitty thoſe that piſs againſt the Wind and thereby put
+their Eyes out? Tho our <hi>Intelligencers</hi> make it their buſineſs to deceive the Fooliſh
+and the Ignorant with a belief that this Petition will be Signed by the Major part of the
+Apprentices of <hi>London,</hi> I do a<g ref="char:EOLhyphen"/>verr and aſſure you, and all your part of the World,
+that the Ad<g ref="char:EOLhyphen"/>dreſs which was preſented by the Loyal Youths were by them aſcertained to his
+Majeſty to be ſubſcribed by above 20000, of the beſt ſort and condition that this great
+City in their quality affords, who do all Unanimouſly Renounce any conſent of Heart or Hand
+they have to any ſuch Petition, and look upon it as a thing rather Deſerving their Scorn that
+Aprobation. And all the harm I wiſh Mr. <hi>Curtis</hi> for his falſe information is that he
+may never ſee them Muſter'd.</p>
+            <p>
+               <hi>Sir,</hi> I have been troubleſome to you beyond Meaſure; but as I ought, I beg your
+Pardon; this had come to you by our penny Poſt, for they ſay here it is Enlarging it ſelf all
+over the World, but that there are ſuch notorius Rogueries conveyed under that Covert by Lovers
+of their Country, that I rather thought fit to Print mine before hand, and then it's no matter what
+Poſt brought it you.</p>
+            <closer>
+               <signed>I Remain <hi>SIR,</hi> Yours &amp;<hi>c.</hi>
+               </signed>
+               <dateline>From <hi>Hedg-Lane</hi> near his Grate the D. of <hi>M. Millimo Trillimo
+Quillimo.</hi>
+               </dateline>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed for <hi>J. C.</hi> 1681.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
